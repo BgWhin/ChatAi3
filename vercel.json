@@ -23,6 +23,10 @@
       "dest": "public/script.js"
       "dest": "public/video_downloader.js"
       "dest": "public/style.css"
+      "dest": "routes/auth.js"
+      "dest": "models/ChatMessage.js"
+      "dest": "models/User.js"
+      "dest": "middleware/authMiddleware.js"
     }
   ]
 }

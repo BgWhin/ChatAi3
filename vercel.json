@@ -20,6 +20,9 @@
       "dest": "public/index.html"
       "dest": "public/cuaca.js"
       "dest": "public/search.js"
+      "dest": "public/script.js"
+      "dest": "public/video_downloader.js"
+      "dest": "public/style.css"
     }
   ]
 }
